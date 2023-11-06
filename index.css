@@ -6,3 +6,7 @@ img {
     width: 350px;
     height: 350px;
 }
+
+.center{
+  text-align: center;
+}
