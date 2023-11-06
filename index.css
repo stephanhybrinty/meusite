@@ -7,6 +7,6 @@ img {
     height: 350px;
 }
 
-.center{
-  text-align: center;
-}
+ .img{
+    float: right;
+ }
