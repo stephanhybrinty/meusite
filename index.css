@@ -5,8 +5,10 @@ body{
 img {
     width: 350px;
     height: 350px;
+    border-radius: 50%;
+    border: 5px saddlebrown;
 }
 
- .img{
-    float: right;
+ .center {
+    text-align: center;
  }
