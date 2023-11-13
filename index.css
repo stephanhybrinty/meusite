@@ -6,7 +6,7 @@ img {
     width: 350px;
     height: 350px;
     border-radius: 0%;
-    border: 5px saddlebrown;
+    border: 5px solid rgb(95, 69, 14);
 }
 
  .right {
